@@ -1,0 +1,111 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    font-size:62.5%;
+    background-color:rgb(64, 64, 107);
+    color:white;
+    
+}
+
+nav{
+    background:rgb(75, 75, 69);
+    padding:1.5rem;
+    border-radius:.5%;
+    opacity:.7;
+}
+
+nav a{
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+    padding:1rem;
+}
+
+nav a:hover{
+    color:orange;
+}
+
+h1{
+    font-size:80px;
+    text-transform:uppercase;
+    margin:0px;
+}
+
+.site-header{
+    background-image: url(sitebanner.jpg);
+    background-size:cover;
+    background-position:center;
+    color:white;
+}
+
+
+.menu{
+    font-size:22px;
+}
+
+.logo{
+    background-position:center;
+}
+
+.titles{
+    font-size:25px;
+}
+
+.header1{
+    font-size:25px;
+}
+
+.paragraph{
+    font-size:20px;
+}
+
+.section-location{
+    font-size:38px;
+}
+
+.contact{
+    margin:20px;
+    border:5px;
+    border-color:white;
+}
+
+table, th{
+  border: 1px solid black;
+  border-color:white;
+  margin:15px;
+  width:100px;
+}
+td{
+    border:1px solid white;
+    border-color:solid white;
+    margin:15px;
+    color:orange;
+    width:100px;
+}
+
+.product{
+    width:20rem;
+}
+
+
+footer{
+    background-color:black;
+    font:white;
+    text-align:center;
+    padding:1rem;
+    
+}
+
+.footer-nav{
+    font-size: 1.5rem;
+    background:black;
+    margin:0px;
+
+}
+
+.footer-nav a{
+    font-size:1.5rem;
+}
+
+footer p{
+    font-size:1.5rem;
+}
